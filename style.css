@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.h1 {
+  color: red;
+  /* background: blue; */
+}
+.header {
+  background: yellow;
+  height: 150px;
+  width: 300px;
+}
